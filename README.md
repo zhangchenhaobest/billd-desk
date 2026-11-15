@@ -1,3 +1,29 @@
+# billd-desk
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+A remote desktop control and game streaming project built with Vue3, WebRTC, Node.js and Flutter.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+基于 Vue3、WebRTC、Node.js 与 Flutter 的远程桌面控制与游戏串流项目。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 BilldDesk Pro | [BilldDesk 开源版](./README_OpenSource.md)
 
 <p align="center">
